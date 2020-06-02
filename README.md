@@ -1,4 +1,4 @@
-# watherappassignment
+# Weather App Assignment
 
 Weather Application
 
