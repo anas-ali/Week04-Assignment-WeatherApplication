@@ -1,16 +1,10 @@
 # Weather App Assignment
+- Basic Weather Application Implementation.
 
-Weather Application
+## Dependencies Used
 
-## Getting Started
+ - Open Weather API to fetch Weather
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens
+<img src="https://github.com/anas-ali/Week04-Assignment-WeatherApplication/blob/master/Screenshot_1591080068.png" height="720" width="360">
